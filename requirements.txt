@@ -1,2 +1,2 @@
-Flask==2.1.2
-Flask-CORS==3.1.2
+pip install Flask==2.1.2 Flask-CORS==3.0.10
+pip freeze > requirements.txt
